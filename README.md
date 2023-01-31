@@ -18,7 +18,7 @@ Here is the default mapping:
 
 Once the project is cloned in your local environment, add the executing privileges and launch the script
 ```
-git clone git@gitlab.com:Reacteev/ansible-docker-tutorial.git
+git clone https://github.com/Reacteev/ansible-docker-tutorial.git
 cd ansible-docker-tutorial
 chmod a+x tutorials.sh
 ./tutorials.sh
